@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pocket52Assignment</string>
+    <string name="user_id_count">User Id : %d\nPost Count : %d</string>
+</resources>
